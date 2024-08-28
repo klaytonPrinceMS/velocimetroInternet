@@ -1,0 +1,11 @@
+											# Documento para instalação das dependencias python para o projeto 
+-r requirements.txt -c consttraints.txt		# instalando as dependencias do ambiente de produção
+											# Instalando as dependencias do ambiente de desenvolvimento e testes
+#-c consttraints.txt 						# Restringindo dependencias as requisições da equipe de segurança da informação
+pipdeptree
+ipython
+pytest
+virtualenv
+auto-py-to-exe==2.44.1
+
+

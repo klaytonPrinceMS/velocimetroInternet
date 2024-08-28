@@ -1,0 +1,13 @@
+#dependencias para produção Necessarios nessas versões
+loguru==0.7.2
+pyqt5==5.15.11
+psutil==6.0.0
+ntplib==0.4.0
+pywin32==306
+wmi==1.5.1
+pyqt-toast-notification==1.3.1
+loguru==0.7.2
+
+
+
+
