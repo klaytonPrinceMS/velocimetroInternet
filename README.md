@@ -12,9 +12,7 @@
 
 
 ## Descrição simplificada do projeto: xxxxx 
-1. Funcionamento: 
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
--			xxxxxxxxxxxxxxxxxxxxxxxxx
+1. Funcionamento: executa um teste de velocidade de internet
 
 ## Distintivos:
 1. Metadados e testes dos softwares
@@ -41,7 +39,8 @@ Para informações e colaborações, entrar em contato com
 1. -> Analista de Sistema: PRINCE, K.B <klayton.prince.ms@gmail.com>
 
 ## Licença:
-1. Software Próprietario de uso Restrito
+1. Este projeto é um fork do projeto Matt Martz
+2. 
 
 ## Status do Projeto:
 1. Em andamento
