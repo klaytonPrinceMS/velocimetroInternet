@@ -20,11 +20,10 @@
 1. Metadados e testes dos softwares
 
 ## Visuais (Prints de orientação):
-1. ->instalador:![]('D:\DTI_2024\instalador\imagens\telaInicialInstalador.png')
-2. ->instaladorEl:![]('D:\DTI_2024\instalador\imagens\telaInicialInstaladorEl.png')
+1. ->
 
 ## Instalação:
-1. ->xxxxx
+1. -> Copiar arquivo executavel para o pc e dar dois cliques
 
 ## Apoiar:
 Para informações e colaborações, entrar em contato com  
